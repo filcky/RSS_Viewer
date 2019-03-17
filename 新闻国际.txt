@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet type="text/xsl" href="/css/rss_xml_style.css"?>
+
+<rss version="2.0">
+  <channel>
+    <title>新闻国际</title>
+    <image>
+      <title>新闻国际</title>
+      <link>http://news.qq.com</link>
+      <url>http://mat1.qq.com/news/rss/logo_news.gif</url>
+    </image>
+    <description>新闻国际</description>
+    <link>http://news.qq.com/world_index.shtml</link>
+    <copyright>Copyright 1998 - 2005 TENCENT Inc. All Rights Reserved</copyright>
+    <language>zh-cn</language>
+    <generator>www.qq.com</generator>
+    <item>
+      <title>全媒风向 | NBC将于5月推出免费新闻流媒体服务</title>
+      <link>http://news.qq.com/a/20190315/009138.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-15 23:13:01</pubDate>
+      <comments/>
+      <description>来源：techcrunch编译：NancyBunnyNBC将于5月初推出名为NBCNewsNow的免费、带广告的流媒体服务，每天播放8小时原创节目，每小时进行新闻更新。此前，其竞争对手ABC和CBS已经开始提供类似的新闻流媒体服务，分别是ABCNewsLive和CBSN。NBC新闻总裁NoahOppenheim表示，NBCNewsNow将使用内部NBC新闻报道资源来创建仅供流媒体使</description>
+    </item>
+    <item>
+      <title>新西兰奥克兰市发生爆炸</title>
+      <link>http://news.qq.com/a/20190315/006470.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-15 15:20:23</pubDate>
+      <comments/>
+      <description>据俄罗斯卫星通讯社消息：新西兰奥克兰市发生爆炸，此前新西兰枪击案导致40人丧生。</description>
+    </item>
+    <item>
+      <title>新西兰清真寺枪案幸存者：枪手换三次弹夹向前排人群逐个射击</title>
+      <link>http://news.qq.com/a/20190315/005637.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-15 14:09:42</pubDate>
+      <comments/>
+      <description>据描述，枪手是一名白人，年纪在30-40岁之间，穿着无法辨认的制服，腿上绑着很多弹夹。他还在网上写下了长达37页的宣言宣告他的意图。</description>
+    </item>
+    <item>
+      <title>全媒风向 | Google如何拉拢全球播客</title>
+      <link>http://news.qq.com/a/20190314/008885.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-14 20:41:40</pubDate>
+      <comments/>
+      <description>编译：宋慢慢来源：adexchanger播客领域沉睡的巨人Google已经睁开眼睛，准备大展拳脚。Google产品经理ZackReneau-Wedeen表示，自去年6月推出Android版本的原生播客应用以来，公司一直致力于改进播客功能，提供更多的节目，并将播客与自家的语音助手和搜索业务相连接。他在RAIN播客业务峰会上提到，“凭借每天数十亿的搜索</description>
+    </item>
+    <item>
+      <title>全媒风向 | 迪士尼将推出流媒体服务 取代“迪士尼馆藏室”</title>
+      <link>http://news.qq.com/a/20190314/008882.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-14 20:38:52</pubDate>
+      <comments/>
+      <description>来源：techcrunch编译：龙宇思迪士尼馆藏室或将不复存在。许多年来，迪士尼都靠限时发售电影碟片来刺激销售，这一策略曾经奏效。消费者们通过抢购这些碟片来充实自己家的影视收藏。但是近几年，DVD让位于流媒体。对于迪士尼而言，这是以订购的方式重新售卖其片库所有影视资源的机会。在近日的一次股东大会上，迪士尼首席执</description>
+    </item>
+    <item>
+      <title>阿尔斯通高管新书《美国陷阱》揭露 美用司法武器实施全球经济战</title>
+      <link>http://news.qq.com/a/20190314/008160.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-14 17:47:37</pubDate>
+      <comments/>
+      <description>【法国《费加罗报》网站3月1日报道】题:经济战,美帝国的强硬招数(记者夏尔·热居)对美国而言,不择手段是允许的。这就需要欧洲紧急作出自我防卫。这是阿尔斯通前员工弗雷德里克·皮耶鲁奇得出的看法。皮耶鲁奇被美国司法噩梦搞得焦头烂额,在山姆大叔的监狱中待了两年。得益于法国《新观察家》周刊记者马蒂厄·阿龙的坚持,皮</description>
+    </item>
+    <item>
+      <title>迪士尼收购福克斯，网飞上位，好莱坞“ 新六大” 重 新洗牌</title>
+      <link>http://news.qq.com/a/20190314/005225.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-14 12:12:08</pubDate>
+      <comments/>
+      <description>福克斯走了，Netflix来了。迪士尼正式收购福克斯，更像是好莱坞新旧势力的一场交接仪式，互联网电影公司的新势力正在对传统的好莱坞格局造成有力的冲击。文|叩敏编辑|朴芳好莱坞新格局诞生。近日，迪士尼宣布已获最后监管批准，将以713亿美元收购21世纪福克斯部分资产，交易包括电影、电视制片厂、付费电视运营商StarTV在</description>
+    </item>
+    <item>
+      <title>实现性别平等——来自全球的有影响力女性联大发声</title>
+      <link>http://news.qq.com/a/20190314/005013.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-14 12:01:55</pubDate>
+      <comments/>
+      <description>3月12日，在位于纽约的联合国总部，联合国妇女署执行主任姆兰博-努卡在“掌权女性”高级别活动上发言。3月12日，联合国大会厅，来自全球的有影响力的女性齐声表示：为实现性别平等，“冲破制约”。新华社记者李木子摄3月12日，在位于纽约的联合国总部，第73届联合国大会主席埃斯皮诺萨（中）主持“掌权女性”高级别活动。</description>
+    </item>
+    <item>
+      <title>特朗普下令禁飞波音737MAX飞机 波音股价应声下跌</title>
+      <link>http://news.qq.com/a/20190314/001938.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-14 09:01:50</pubDate>
+      <comments/>
+      <description>当地时间13号，美国总统特朗普下令禁飞所有波音737MAX系列飞机之后，波音股价应声下跌，跌幅超过2%。随后，受逢低买进、利空出尽等因素的影响，其股价有所回涨，到美股收盘时，波音每股收于377.14美元，较昨日上涨1.73美元，涨幅为0.46%。10号，埃塞俄比亚航空公司的一架波音737-8型号飞机（属于737MAX系列）坠毁，机上157</description>
+    </item>
+    <item>
+      <title>美国警告德国勿使用华为 默克尔的回复堪称“打脸”</title>
+      <link>http://news.qq.com/a/20190314/001068.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-14 07:58:04</pubDate>
+      <comments/>
+      <description>图为德国总理默克尔。新华社/美联参考消息网3月14日报道最近一段时间，美国正在欧洲开展活动，劝阻欧洲国家不要使用中国华为公司的设备来建设5G移动网络基础设施，甚至直接致信德国，警告其勿用华为5G技术。路透社认为，美国此举让德国很恼火。而此后默克尔的回复也堪称“打脸”。据路透社报道，默克尔12日说，德国政府极</description>
+    </item>
+    <item>
+      <title>英国议会投票否决无协议脱欧方案</title>
+      <link>http://news.qq.com/a/20190314/000130.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-14 03:28:16</pubDate>
+      <comments/>
+      <description>当地时间3月13日，英国议会下院投票反对英国在任何情况下“无协议脱欧”。按照计划，英国将于14日投票决定是否推迟原定于3月29日的“退欧日”。</description>
+    </item>
+    <item>
+      <title>全媒风向 | 雅虎体育正在为纽约大都会队建立订阅产品</title>
+      <link>http://news.qq.com/a/20190313/009106.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-13 23:11:13</pubDate>
+      <comments/>
+      <description>来源：Digiday编译：宋慢慢雅虎体育（YahooSports）计划从纽约大都会队(NewYorkMets)开始，给不同的球队建立数字订阅产品，以形成自己的订阅矩阵。近日，雅虎体育计划对外公布一个名为QueensBaseballClub的产品，包括无广告的订阅网站和APP。该产品联合纽约大都会队一起开发，会员将获得独家内容，例如对高管的采访，以及</description>
+    </item>
+    <item>
+      <title>英国“脱欧”倒计时17天 首相脱欧协议再遭议会投票否决</title>
+      <link>http://news.qq.com/a/20190313/000160.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-13 03:37:22</pubDate>
+      <comments/>
+      <description>当地时间周二晚，英国议会就修改后的“脱欧”协议进行了再次投票表决，结果这份协议依旧没能获得大多数的支持，以149票之差再次遭到否决。周三英国将再次举行投票决定是否“无协议脱欧”，若“无协议脱欧”也被否决，英国将于本周四投票决定是否推迟原定于3月29日的“退欧日”。“脱欧”协议至今无法获得议会支持的原因主</description>
+    </item>
+    <item>
+      <title>一文读懂埃塞航空坠机事故：载157人无人生还 有8名中国乘客</title>
+      <link>http://news.qq.com/a/20190310/005085.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-10 19:13:51</pubDate>
+      <comments/>
+      <description>本文综合央视、新华社等媒体报道一、核心事实1.飞机于当地时间8点38分从埃塞俄比亚首都亚的斯亚贝巴起飞，计划飞往肯尼亚首都内罗毕。2.当时时间8点44分，飞机从雷达上消失，被确认坠毁。3.飞机型号为波音737MAX8，航班号ET302/10，是4个月前才交付的新飞机。4.机上载有149名乘客和8名机组人员，乘客共来自33个国家，其中</description>
+    </item>
+    <item>
+      <title>埃塞俄比亚失事客机上搭载8名中国乘客 确认全部遇难</title>
+      <link>http://news.qq.com/a/20190310/005067.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-10 19:01:03</pubDate>
+      <comments/>
+      <description>据央视消息，埃塞俄比亚失事客机上搭载8名中国乘客，确认全部遇难。资料图此前媒体报道：埃塞航空一架载157人客机坠毁后无人生还机上有中国乘客据最新消息，一架载有157人的埃塞俄比亚客机失事，该航班搭载有中国乘客，确认无人生还。“今日俄罗斯”网报道称，埃塞俄比亚航空公司一架波音737MAX客机在飞往肯尼亚途中坠毁。</description>
+    </item>
+    <item>
+      <title>载157人埃塞俄比亚失事客机上有中国乘客 无人生还</title>
+      <link>http://news.qq.com/a/20190310/004981.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-10 18:22:58</pubDate>
+      <comments/>
+      <description>一架载有157人的埃塞俄比亚客机失事，机上无人生还，该航班搭载有中国乘客。资料图埃塞俄比亚航空一架737客机坠毁载149名乘客8名机组人员【环球网报道记者张飞扬】“今日俄罗斯”网报道称，埃塞俄比亚航空公司一架波音737MAX客机在飞往肯尼亚途中坠毁。英国《镜报》消息称，埃塞俄比亚航空公司称，该飞机载有149名乘客和8</description>
+    </item>
+    <item>
+      <title>埃塞俄比亚航空一架客机坠毁 中方正多渠道核实涉中国公民情况</title>
+      <link>http://news.qq.com/a/20190310/004862.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-10 17:51:45</pubDate>
+      <comments/>
+      <description>【#埃塞俄比亚航空一架客机坠毁#，中方正多渠道紧急核实涉中国公民情况】10日，埃塞俄比亚航空公司一架载有149名乘客和8名机组人员的飞机在飞往内罗毕的途中坠毁。据@领事之声，驻埃塞俄比亚使馆、驻肯尼亚使馆已启动应急机制，多渠道紧急核实涉中国公民情况。</description>
+    </item>
+    <item>
+      <title>失事的埃塞航班系中国往返内罗毕 华人搭乘较多的航班</title>
+      <link>http://news.qq.com/a/20190310/004835.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-10 17:47:36</pubDate>
+      <comments/>
+      <description>【埃塞俄比亚航空公司ET302航班失事】埃塞俄比亚航空公司上午11时公布，3月10日从亚的斯亚贝巴飞往内罗毕的ET302号航班今天在Bishoftu（DebreZeit）附近发生了一起事故。注册号为ET-AVJ的B-737-800MAX型飞机于当地时间上午8时38分从亚的斯亚贝巴、博莱国际机场起飞，并于08:44分失去联系。目前搜索和救援行动正在进行中，</description>
+    </item>
+    <item>
+      <title>埃塞俄比亚坠机搜索救援行动进行中 事故原因待确认</title>
+      <link>http://news.qq.com/a/20190310/004670.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-10 16:53:57</pubDate>
+      <comments/>
+      <description>#央视快讯#【#埃塞俄比亚客机失事#机上载有157人】10日，埃塞俄比亚航空公司一架注册号为ET-AVJ的B-737-800MAX型飞机，于当地时间上午8:38从亚的斯亚贝巴博莱国际机场起飞，并于8:44失去联系。目前搜索和救援行动正在进行中，事故原因待确认。据悉，这次航班上有149名乘客和8名机组人员，目前正在确认航班旅客名单的细节。</description>
+    </item>
+    <item>
+      <title>埃塞俄比亚航空一架载157人飞机坠毁</title>
+      <link>http://news.qq.com/a/20190310/004603.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-10 16:33:13</pubDate>
+      <comments/>
+      <description>快讯：埃塞俄比亚航空确认一架载有149名乘客、8名机组人员的飞机坠毁。</description>
+    </item>
+  </channel>
+</rss>

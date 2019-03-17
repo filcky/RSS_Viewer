@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<?xml-stylesheet type="text/xsl" href="/css/rss_xml_style.css"?>
+
+<rss version="2.0">
+  <channel>
+    <title>新闻国际</title>
+    <image>
+      <title>新闻国际</title>
+      <link>http://news.qq.com</link>
+      <url>http://mat1.qq.com/news/rss/logo_news.gif</url>
+    </image>
+    <description>新闻国际</description>
+    <link>http://news.qq.com/world_index.shtml</link>
+    <copyright>Copyright 1998 - 2005 TENCENT Inc. All Rights Reserved</copyright>
+    <language>zh-cn</language>
+    <generator>www.qq.com</generator>
+    <item>
+      <title>韩媒：韩对朝代表今起赴美 将进行为期3天访问</title>
+      <link>http://news.qq.com/a/20190305/005427.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-05 12:02:18</pubDate>
+      <comments/>
+      <description>据韩国国际广播电台(KBS)报道，在朝美首脑会谈结束后，韩国外交部朝鲜半岛和平交涉本部长、朝鲜核问题协商首席代表李度勋将于3月5日起，启程赴美国华盛顿进行为期3天的访问。届时，他将与美国朝鲜政策特别代表斯蒂芬·比根举行会谈。据报道，韩国外交部介绍，3月5日起，李度勋对美国华盛顿进行为期3天的访问。在访美期间，</description>
+    </item>
+    <item>
+      <title>13名法籍IS成员将在伊受审，极端组织外籍成员成烫手山芋</title>
+      <link>http://news.qq.com/a/20190305/001026.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-05 07:44:56</pubDate>
+      <comments/>
+      <description>13名法国籍“伊斯兰国”成员是被“叙利亚民主军”库尔德武装俘获后，移交给伊拉克政府的。</description>
+    </item>
+    <item>
+      <title>伊朗驱逐两名荷兰外交官</title>
+      <link>http://news.qq.com/a/20190305/000242.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-05 03:52:42</pubDate>
+      <comments/>
+      <description>伊朗外交部发言人证实，伊朗已经驱逐两名荷兰外交官，用以回应去年6月荷兰驱逐两名伊朗外交官的事件。据伊朗外交部消息，荷兰已于当地时间4日召回其驻伊朗大使，对事态进行进一步磋商。（央视记者李健南）</description>
+    </item>
+    <item>
+      <title>俄罗斯总统普京签署停止履行《中导条约》法令</title>
+      <link>http://news.qq.com/a/20190304/010731.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-04 22:52:56</pubDate>
+      <comments/>
+      <description>今天，俄罗斯总统普京签署停止履行《中导条约》的法令。克宫表示，俄罗斯从该法令签署之日起正式停止履行《中导条约》，直到美国不再违反该条约，或该条约到期终止。俄上议院国际事务委员会副主席扎巴罗夫称，俄方在停止履行《中导条约》后不会在俄罗斯边境部署该条约涉及的导弹。（央视记者宋一平）</description>
+    </item>
+    <item>
+      <title>俄罗斯停止履行《中导条约》</title>
+      <link>http://news.qq.com/a/20190304/010725.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-04 22:47:15</pubDate>
+      <comments/>
+      <description>今天，俄罗斯总统普京签署停止履行《中导条约》的法令。克宫表示，俄罗斯从该法令签署之日起正式停止履行《中导条约》，直到美国不再违反该条约，或该条约到期终止。俄上议院国际事务委员会副主席扎巴罗夫称，俄方在停止履行《中导条约》后不会在俄罗斯边境部署该条约涉及的导弹。（央视记者宋一平）</description>
+    </item>
+    <item>
+      <title>印巴在克什米尔地区再发炮击 互有伤亡</title>
+      <link>http://news.qq.com/a/20190302/004871.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-02 16:27:45</pubDate>
+      <comments/>
+      <description>　　据巴基斯坦媒体报道，当地时间2号上午，印度与巴基斯坦边防军再次在实际控制线附近发生炮击，造成巴基斯坦一侧米尔普尔（Mirpur）地区2名平民死亡，多座房屋被毁。而另据印度媒体报道，来自巴方的炮击同样造成位于萨洛特里村（Salotrivillage）1名印度妇女及其2个孩子身亡，多人受伤。（央视记者李琳刘旭）</description>
+    </item>
+    <item>
+      <title>金特会2.0无协议就是失败？越南专家看到了成功</title>
+      <link>http://news.qq.com/a/20190302/004062.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-02 13:58:45</pubDate>
+      <comments/>
+      <description>“或许是因为期待太高，对于这次“金特会”的结果，包括我在内，的确有点失望。但是我仍旧认为这是一次成功的会谈。”</description>
+    </item>
+    <item>
+      <title>从下龙湾到元山：越南经济热潮能否刮到朝鲜？</title>
+      <link>http://news.qq.com/a/20190302/003986.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-02 13:43:46</pubDate>
+      <comments/>
+      <description>“吱吱吱……”越南北部旅游胜地下龙湾游船“DragonKing”（龙王号）驶出海面未多时，老式音响最初发出的这一阵刺耳的声响瞬间刺破了船舱内的寂静。30多岁的游船女服务员兰用她长满老茧的手，扭开了位于船头木柜下方的音响按钮，随之而来是震耳欲聋的越南歌曲。兰倚在木柜旁，熟练地握起了话筒，目不转睛地盯着手机的歌词</description>
+    </item>
+    <item>
+      <title>金正恩对越正式友好访问日程公布 将与越主席会晤</title>
+      <link>http://news.qq.com/a/20190301/004349.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-01 10:46:36</pubDate>
+      <comments/>
+      <description>除了与阮富仲会晤外，金正恩还将为越南烈士纪念碑和胡志明主席墓献花，并与越南总理阮春福、国会主席阮氏金银等会面。</description>
+    </item>
+    <item>
+      <title>朝鲜方面午夜突然在河内召开新闻发布会 回应美朝“谈崩”原因</title>
+      <link>http://news.qq.com/a/20190301/000044.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-03-01 01:46:45</pubDate>
+      <comments/>
+      <description>朝鲜外长李永浩解释说，朝方寻求解除的制裁涉及的主要是民生方面，但美国要求在拆除宁边核设施之外再“采取一项措施”，这说明“美方并没有准备好接受我们的提议”。</description>
+    </item>
+    <item>
+      <title>美朝领导人峰会未达成协议</title>
+      <link>http://news.qq.com/a/20190228/007215.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-02-28 14:42:32</pubDate>
+      <comments/>
+      <description>峰会没有达成协议韩联社消息：白宫称，朝美未达成任何协议。金特会突然生变了吗？多家外媒及其前方记者消息说，金特会议程发生了很大变化。环球时报-环球网赴越南特派记者得到消息也是，朝美工作午餐和联合签约仪式取消。CNN称，特朗普与金正恩车队都已离开大都会酒店，返回各自下榻的酒店。根据白宫此前发布的日程计划，</description>
+    </item>
+    <item>
+      <title>对话全文：特朗普与金正恩27日会晤，都说了啥？</title>
+      <link>http://news.qq.com/a/20190228/004771.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-02-28 10:54:44</pubDate>
+      <comments/>
+      <description>在27日的会见和晚餐结束后，美国白宫网站公布了特朗普与金正恩两人当晚公开对话部分的全文。</description>
+    </item>
+    <item>
+      <title>英国首相特雷莎·梅就“脱欧”问题接受议会下院质询</title>
+      <link>http://news.qq.com/a/20190228/003732.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-02-28 10:02:40</pubDate>
+      <comments/>
+      <description>特雷莎-梅表示，政府不希望延期“脱欧”，延期和举行第二次“脱欧”公投都无法解决问题，政府的首要目标依旧是让议会通过“脱欧”协议草案。</description>
+    </item>
+    <item>
+      <title>朝美领导人继续会晤 今天或将发表成果性文件</title>
+      <link>http://news.qq.com/a/20190228/003666.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-02-28 09:59:57</pubDate>
+      <comments/>
+      <description>朝鲜最高领导人金正恩与美国总统特朗普28日继续在河内进行会晤。当地时间上午8时55分左右，会晤在河内索菲特传奇大都会酒店举行。28日一早，酒店附近就采取了交通管制措施。越南快讯网报道称，金正恩与特朗普上午将进行小范围与大范围会晤，随后，朝美将共同发表相关成果性文件。越通社援引外媒消息称，双方将在成果文件中</description>
+    </item>
+    <item>
+      <title>一架搭载尼泊尔民航部长的直升机坠毁</title>
+      <link>http://news.qq.com/a/20190227/009230.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-02-27 17:08:50</pubDate>
+      <comments/>
+      <description>据尼泊尔媒体27日报道，搭载尼泊尔文化、旅游和民航部长阿迪卡里的一架直升机当天在尼泊尔东部坠毁。</description>
+    </item>
+    <item>
+      <title>印尼一非法金矿坍塌已致3人死亡，另有46人被埋</title>
+      <link>http://news.qq.com/a/20190227/005868.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-02-27 13:39:00</pubDate>
+      <comments/>
+      <description>当地时间2019年2月26日，印尼北苏拉威西省BolaangMongondow，当地一非法金矿发生坍塌事故。视觉中国图央视新闻客户端2月27日消息，印度尼西亚国家灾害管理部门27日表示，当地时间26日晚9点，苏拉威西岛洛兰安巴坎村一处非法金矿发生坍塌，至少60人被掩埋。最新救援情况显示，已经有3具遇难者遗体被找到，11人获救，46人仍</description>
+    </item>
+    <item>
+      <title>特朗普抵达越南主席府 会见越南国家主席阮富仲</title>
+      <link>http://news.qq.com/a/20190227/004971.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-02-27 12:28:02</pubDate>
+      <comments/>
+      <description>当地时间27日午间，特朗普将分别会见越南国家主席阮富仲、总理阮春福。晚上，特朗普将和金正恩进行一对一会晤。</description>
+    </item>
+    <item>
+      <title>全媒风向|体育流媒体FuboTV宣布和Viacom达成合作</title>
+      <link>http://news.qq.com/a/20190226/005706.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-02-26 12:43:00</pubDate>
+      <comments/>
+      <description>体育流媒体FuboTV和全球第四大传媒集团Viacom近日达成合作，宣布了一项新的合作协议，允许FuboTV在其电视内容中转载Viacom娱乐内容，合作范围包括MTV、Nickelodeon、CMT等九个娱乐频道。协议表示，FuboTV以每月45美元的价格提供以上九个娱乐频道的订阅服务，其他几个频道如Logo、TeenNick等作为FuboTV的内容包‘FuboExtra</description>
+    </item>
+    <item>
+      <title>体育流媒体FuboTV宣布和传媒集团Viacom达成合作</title>
+      <link>http://news.qq.com/a/20190226/005632.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-02-26 12:35:59</pubDate>
+      <comments/>
+      <description>体育流媒体FuboTV和全球第四大传媒集团Viacom近日达成合作，宣布了一项新的合作协议，允许FuboTV在其电视内容中转载Viacom娱乐内容，合作范围包括MTV、Nickelodeon、CMT等九个娱乐频道。协议表示，FuboTV以每月45美元的价格提供以上九个娱乐频道的订阅服务，其他几个频道如Logo、TeenNick等作为FuboTV的内容包‘FuboExtra</description>
+    </item>
+    <item>
+      <title>国际锐评：叙“化武”闹剧露真相 且看西方媒体如何编故事</title>
+      <link>http://news.qq.com/a/20190217/004476.htm</link>
+      <author>www.qq.com</author>
+      <category/>
+      <pubDate>2019-02-17 16:46:48</pubDate>
+      <comments/>
+      <description>最近，有关叙利亚的一条爆炸性新闻在全球传开：英国广播公司（BBC）制片人利亚姆·达拉提表示，他经过长达六个月的调查后确认，2018年4月发生在叙利亚杜马镇的有关“化学武器袭击”视频是人为导演拍摄的。此前，俄罗斯有关方面也披露了西方导演这个故事的有关细节。而当时，这段视频出现后，美、英、法对叙利亚发动空中打</description>
+    </item>
+  </channel>
+</rss>
